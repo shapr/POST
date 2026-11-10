@@ -10,6 +10,9 @@ Constraints from attendees seem to be:
 Tuesdays or Thursdays, after 15:00 Eastern (NYC) time and before 18:00 Eastern time.
 From what I hear, some people prefer the earliest of those time, some prefer the latest time
 
+# Which date exactly?
+2026 November 10 at 17:00 EDT
+
 # Where?
 https://jitsi.milliways.info/post-reading-group
 
