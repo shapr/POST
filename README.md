@@ -36,3 +36,7 @@ The list is likely to change because life happens.
 I will take notes and probably upload them to this repo.
 I will happily give you the commit bit if you want to upload your own notes.
 As long as you read the text and have something to say about it, I'll be thrilled!
+
+# Extra Resources
+
+- [Book Club Guide](https://catharsisinsight.com/book-club-guide)
